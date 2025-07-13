@@ -2,7 +2,7 @@
 
 I am Paras
 
-Coder| 
+Coder | Data Scientist | Anime Enthusiast
 
 - 🔭 I’m a Data Scientist by profession.
 - 🌱 I’m currently learning transformers and game changing new AI tech.
